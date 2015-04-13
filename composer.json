@@ -19,7 +19,6 @@
     "illuminate/cache": "~5",
     "illuminate/config": "~5",
     "illuminate/http": "~5",
-    "philf/setting": "~1.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.3.4",
